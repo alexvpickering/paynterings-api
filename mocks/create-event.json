@@ -1,0 +1,9 @@
+{
+  "body":
+    "{\"title\":\"hello world\",\"videoDate\":\"February 2018\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
